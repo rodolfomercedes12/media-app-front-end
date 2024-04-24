@@ -1,10 +1,11 @@
 # media_content_app
 
-A new Flutter project.
 
-## Getting Started
+## Configuraración inicial
 
-This project is a starting point for a Flutter application.
+1. Ejecutar en la terminal el comando "flutter pub get".
+2. Iniciar un emulador
+3. Ejecutar en la terminal el comando "flutter run" o presionar la tecla  f5 para lanzar la aplicación.
 
 A few resources to get you started if this is your first Flutter project:
 
